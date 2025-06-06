@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayush Shyam</h1>
+<h1 align="center">Hello 👋, I'm Ayush Kumar</h1>
 <h3 align="center">
 Software Engineer at Guidewire Software | Cloud-Native Systems | DevOps | Machine Learning & AI | Open Source Contributor
 </h3>
