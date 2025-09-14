@@ -183,6 +183,8 @@ I am a Software Engineer at [Guidewire Software](https://www.guidewire.com/), sp
 ## Let's Connect
 
 I'm eager to collaborate on innovative projects, contribute to open-source initiatives, or explore emerging technologies. Feel free to explore my repositories and get in touch to discuss potential collaborations!
+Catch more about me at [roguepikachu.github.io/portfolio](https://roguepikachu.github.io/portfolio/)
+
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://linkedin.com/in/ayush-shyam-kumar" target="_blank" title="Connect on LinkedIn">
