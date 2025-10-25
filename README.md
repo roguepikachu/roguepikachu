@@ -9,7 +9,7 @@ Software Engineer at Guidewire Software | Cloud-Native Systems | DevOps | Machin
 I am a Software Engineer at [Guidewire Software](https://www.guidewire.com/), specializing in designing and implementing scalable, cloud-native systems and robust infrastructure. My expertise lies at the intersection of **DevOps**, and **AI/ML**, with a focus on building secure, efficient, and distributed environments.  
 
 - **Research Contributions**: Published papers on Deep Learning, NLP, and Computer Vision in leading journals and conferences, including Springer and ACL.  
-- **Open Source Advocate**: Active contributor to projects such as [KubeVela](https://kubevela.io/), [jsPolicy](https://www.jspolicy.com/), [in-toto](https://in-toto.io/), and [GUAC](https://guac.sh/).  
+- **Open Source Advocate**: Active contributor to projects such as [KubeVela](https://kubevela.io/), [kube-linter](https://docs.kubelinter.io/), [in-toto](https://in-toto.io/), and [GUAC](https://guac.sh/).  
 - Passionate about leveraging technology to solve complex problems and drive innovation in software development.
 
 ---
