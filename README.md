@@ -168,16 +168,33 @@ I am a Software Engineer at [Guidewire Software](https://www.guidewire.com/), sp
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roguepikachu&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roguepikachu&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roguepikachu&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roguepikachu&theme=dracula&hide_border=true" alt="GitHub Streak" height="200"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <img width="100%" height="200px"
+src="https://github-readme-stats.vercel.app/api?username=roguepikachu&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" />
+    </td>
+   <td width="50%" valign="top">
+      <img width="100%"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=roguepikachu&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top
+Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <img width="100%" height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=roguepikachu&theme=dracula&hide_border=true&area=true"
+alt="Contribution Graph" />
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <img width="100%" height="200px" src="https://github-readme-streak-stats-eight.vercel.app/?user=roguepikachu&theme=dracula&hide_border=true" alt="GitHub
+Streak" />
+    </td>
+  </tr>
+</table>
 
+</div>
 ---
 
 ## Let's Connect
