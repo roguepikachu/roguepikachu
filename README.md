@@ -169,7 +169,6 @@ I am a Software Engineer at [Guidewire Software](https://www.guidewire.com/), sp
 ## GitHub Overview
 
 <div align="center">
-
 <table>
   <tr>
     <td width="50%" style="vertical-align: top;">
@@ -193,8 +192,8 @@ Streak" />
     </td>
   </tr>
 </table>
-
 </div>
+
 ---
 
 ## Let's Connect
